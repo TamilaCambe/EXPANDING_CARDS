@@ -1,5 +1,4 @@
 <h1 align = 'center'> Cartões Expandíveis </h1>
-<h2 align = 'center'>Confere aqui: https://tamilacambe.github.io/EXPANDING_CARDS/</h2>
 
 ## Demonstração 😉
 
